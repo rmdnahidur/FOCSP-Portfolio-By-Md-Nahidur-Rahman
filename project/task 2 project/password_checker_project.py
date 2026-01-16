@@ -1,5 +1,6 @@
-# Task 2: Password Security Verification
-# Author: Md Nahidur
+# Task 2: Password Security
+# Author: Md Nahidur Rahman
+
 # This program asks the user to enter a password and verifies it
 # by requesting three letters from random positions for security.
 

@@ -1,7 +1,6 @@
 # Beckett Pizza Plaza – 4-for-3 Special Offer
 # Name: Md Nahidur Rahman
 
-
 # This program calculates the total cost for 4 pizzas,
 # applying the "Buy 4, Pay for 3" discount.
 
