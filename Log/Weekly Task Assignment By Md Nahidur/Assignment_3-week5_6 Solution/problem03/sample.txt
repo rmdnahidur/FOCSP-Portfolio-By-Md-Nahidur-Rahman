@@ -1,0 +1,4 @@
+Python is easy
+I love Python programming
+File handling is important
+Python is powerful
